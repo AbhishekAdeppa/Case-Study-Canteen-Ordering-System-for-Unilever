@@ -16,6 +16,7 @@ Activity and ER Diagrams: Visual representations of workflows and data relations
 Business Benefits: Improved efficiency, reduced waste, and better customer experience.
 
 Files
+
 CaseStudy_Unilever_CanteenSystem.pdf: Contains the detailed case study.
 
 Usage
